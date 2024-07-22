@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\bin\Debug\VeriTabanliSecim.exe.config
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\bin\Debug\VeriTabanliSecim.exe
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\bin\Debug\VeriTabanliSecim.pdb
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.Properties.Resources.resources
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.exe
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.pdb
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.FrmGrafikler.resources
+C:\Users\ahmet\source\repos\VeriTabanliSecim\VeriTabanliSecim\obj\Debug\VeriTabanliSecim.FrmOyGiris.resources
